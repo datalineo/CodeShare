@@ -8,6 +8,13 @@ import datetime
 import requests
 import json
 
+# notes
+# this Python script is very specific to Azure functions, and would not work if executed from a server or desktop direcly
+# the Azure Function specific things are
+# def main(), which is the main function called by the HTTP Response function
+# logging.info
+# azure.functions module
+
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     
