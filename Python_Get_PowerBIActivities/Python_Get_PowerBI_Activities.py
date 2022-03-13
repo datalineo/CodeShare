@@ -14,6 +14,8 @@ import json
 # def main(), which is the main function called by the HTTP Response function
 # logging.info
 # azure.functions module
+# Link to getting VS Code set up to run Python scripts
+# https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python
 
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
