@@ -1,0 +1,125 @@
+
+        measure ColourGreyDark = "#404040"
+            displayfolder: Conditional\Standard Formatting\Colours
+            IsHidden
+
+        measure ColourGreenDark = "#5DAE76"
+            displayfolder: Conditional\Standard Formatting\Colours
+            IsHidden
+
+        measure ColourGreenLight = "#B5E3C8"
+            displayfolder: Conditional\Standard Formatting\Colours
+            IsHidden
+            
+        measure ColourRedDark = "#D7796B"
+            displayfolder: Conditional\Standard Formatting\Colours
+            IsHidden
+            
+        measure ColourRedLight = "#F4C7C3"
+            displayfolder: Conditional\Standard Formatting\Colours
+            IsHidden
+            
+        measure ColourYellowDark = "#E4B731"
+            displayfolder: Conditional\Standard Formatting\Colours
+            IsHidden
+            
+        measure ColourYellowLight = "#F9E79F"
+            displayfolder: Conditional\Standard Formatting\Colours
+            IsHidden
+            
+        measure SymbolCross = UNICHAR ( 10008 )
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolDownArrow = UNICHAR ( 9660 )
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolLine = UNICHAR ( 9644 )
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolMinus = UNICHAR ( 8722 )
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolRightArrow = UNICHAR ( 9654 )
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolTick = UNICHAR ( 10004 )
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+        
+        measure SymbolUpArrow = UNICHAR ( 9650 )
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolUpRightArrow = UNICHAR ( 129125)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolDownRightArrow = UNICHAR ( 129126)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolFlag = UNICHAR (9873)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolFullCircle = UNICHAR (9210)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolHalfCircle = UNICHAR (9681)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolLightbulb = UNICHAR (128161)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+        
+        measure SymbolMagnifyingGlass = UNICHAR (128270)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+             
+        measure SymbolPin = UNICHAR (128204)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+        
+        measure SymbolPlus = UNICHAR (43)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolPlusMinus = UNICHAR (177)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+         
+        measure SymbolQuarterCircle = UNICHAR (9684)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolRocket = UNICHAR (128640)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolSad = UNICHAR (128577)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolSmiley = UNICHAR (128512)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolStarFull = UNICHAR (128970)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolStarThin = UNICHAR (128944)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden
+            
+        measure SymbolThreeQuarterCircle = UNICHAR (9685)
+            displayfolder: Conditional\Standard Formatting\Symbols
+            IsHidden 
+
